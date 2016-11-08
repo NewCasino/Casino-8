@@ -1,0 +1,203 @@
+# Turn on URL rewriting
+RewriteEngine On
+
+# Installation directory
+RewriteBase /
+
+
+RewriteRule ^lasvegas.swf /media/flash/games/lasvegas/game.swf [L]
+RewriteRule ^vegas_sound.swf /media/flash/games/lasvegas/sound.swf [L]
+
+RewriteRule ^captaincavern.swf /media/flash/games/captaincavern/game.swf [L]
+RewriteRule ^captain-cavern_sound.swf /media/flash/games/captaincavern/sound.swf [L]
+
+RewriteRule ^crazydoctors.swf /media/flash/games/crazydoctors/game.swf [L]
+RewriteRule ^doctors_sound.swf /media/flash/games/crazydoctors/sound.swf [L]
+
+RewriteRule ^london.swf /media/flash/games/london/game.swf [L]
+RewriteRule ^londoncity_sound.swf /media/flash/games/london/sound.swf [L]
+
+RewriteRule ^new_york.swf /media/flash/games/new_york/game.swf [L]
+RewriteRule ^ny_sound.swf /media/flash/games/new_york/sound.swf [L]
+
+RewriteRule ^paris.swf /media/flash/games/paris/game.swf [L]
+RewriteRule ^paris_sound.swf /media/flash/games/paris/sound.swf [L]
+
+RewriteRule ^rue_commerce.swf /media/flash/games/rue_commerce/game.swf [L]
+RewriteRule ^rue_commerce_sound.swf /media/flash/games/rue_commerce/sound.swf [L]
+
+RewriteRule ^sergent_pepper.swf /media/flash/games/sergent_pepper/game.swf [L]
+RewriteRule ^sergent-pepper_sound.swf /media/flash/games/sergent_pepper/sound.swf [L]
+
+RewriteRule ^shinobi.swf /media/flash/games/shinobi/game.swf [L]
+RewriteRule ^shinobi_sound.swf /media/flash/games/shinobi/sound.swf [L]
+
+RewriteRule ^tokyo.swf /media/flash/games/tokyo/game.swf [L]
+RewriteRule ^tokyo_sound.swf /media/flash/games/tokyo/sound.swf [L]
+
+# Slot free
+RewriteRule ^cartoons.swf /media/flash/games/cartoons/game.swf [L]
+RewriteRule ^cartoons_sound.swf /media/flash/games/cartoons/sound.swf [L]
+
+RewriteRule ^davinci.swf /media/flash/games/davinci/game.swf [L]
+RewriteRule ^vinci_sound.swf /media/flash/games/davinci/sound.swf [L]
+
+RewriteRule ^happy_christmas.swf /media/flash/games/happy_christmas/game.swf [L]
+RewriteRule ^Happy_Christmas_sound.swf /media/flash/games/happy_christmas/sound.swf [L]
+
+RewriteRule ^indiana_croft.swf /media/flash/games/indiana_croft/game.swf [L]
+RewriteRule ^indiana_croft_sound.swf /media/flash/games/indiana_croft/sound.swf [L]
+
+RewriteRule ^james_band.swf /media/flash/games/james_band/game.swf [L]
+RewriteRule ^james_sound.swf /media/flash/games/james_band/sound.swf [L]
+
+RewriteRule ^jules_verne.swf /media/flash/games/jules_verne/game.swf [L]
+RewriteRule ^julesverne_sound.swf /media/flash/games/jules_verne/sound.swf [L]
+
+RewriteRule ^just_married.swf /media/flash/games/just_married/game.swf [L]
+RewriteRule ^Just_married_sound.swf /media/flash/games/just_married/sound.swf [L]
+
+RewriteRule ^mah_jong.swf /media/flash/games/mah_jong/game.swf [L]
+RewriteRule ^mahjong_sound.swf /media/flash/games/mah_jong/sound.swf [L]
+
+RewriteRule ^new_year_eve.swf /media/flash/games/new_year_eve/game.swf [L]
+RewriteRule ^new-year-eve_sound.swf /media/flash/games/new_year_eve/sound.swf [L]
+
+RewriteRule ^pantheon.swf /media/flash/games/pantheon/game.swf [L]
+RewriteRule ^pantheon_sound.swf /media/flash/games/pantheon/sound.swf [L]
+
+RewriteRule ^royal_fruit.swf /media/flash/games/royal_fruit/game.swf [L]
+RewriteRule ^RoyalFruit_sound.swf /media/flash/games/royal_fruit/sound.swf [L]
+
+RewriteRule ^safari.swf /media/flash/games/safari/game.swf [L]
+RewriteRule ^safari_sound.swf /media/flash/games/safari/sound.swf [L]
+
+RewriteRule ^space_runners.swf /media/flash/games/space_runners/game.swf [L]
+RewriteRule ^space-runners_sound.swf /media/flash/games/space_runners/sound.swf [L]
+
+RewriteRule ^super_heroes.swf /media/flash/games/super_heroes/game.swf [L]
+RewriteRule ^superheroes_sound.swf /media/flash/games/super_heroes/sound.swf [L]
+
+RewriteRule ^world_cup.swf /media/flash/games/world_cup/game.swf [L]
+RewriteRule ^world_cup_sound.swf /media/flash/games/world_cup/sound.swf [L]
+
+
+RewriteRule ^scrooge.swf /media/flash/games/scrooge/game.swf [L]
+RewriteRule ^russia_sound.swf /media/flash/games/scrooge/sound.swf [L]
+
+
+#Slot 25 joker
+RewriteRule ^atlantis.swf /media/flash/games/atlantis/game.swf [L]
+RewriteRule ^Atlantis_Sound.swf /media/flash/games/atlantis/sound.swf [L]
+
+RewriteRule ^dartagnan.swf /media/flash/games/dartagnan/game.swf [L]
+RewriteRule ^Dartagnan_Sound.swf /media/flash/games/dartagnan/sound.swf [L]
+
+RewriteRule ^dracula.swf /media/flash/games/dracula/game.swf [L]
+RewriteRule ^Dracula_Sound.swf /media/flash/games/dracula/sound.swf [L]
+
+RewriteRule ^gladiator.swf /media/flash/games/gladiator/game.swf [L]
+RewriteRule ^Gladiator_Sound.swf /media/flash/games/gladiator/sound.swf [L]
+
+RewriteRule ^happy_farm.swf /media/flash/games/happy_farm/game.swf [L]
+RewriteRule ^HappyFarm_Sound.swf /media/flash/games/happy_farm/sound.swf [L]
+
+RewriteRule ^jungle_jimmy.swf /media/flash/games/jungle_jimmy/game.swf [L]
+RewriteRule ^Jungle_Sound.swf /media/flash/games/jungle_jimmy/sound.swf [L]
+
+RewriteRule ^jurassic_world.swf /media/flash/games/jurassic_world/game.swf [L]
+RewriteRule ^jurassic_Sound.swf /media/flash/games/jurassic_world/sound.swf [L]
+
+RewriteRule ^lucky_luke.swf /media/flash/games/lucky_luke/game.swf [L]
+RewriteRule ^Lucky_Luke_Sound.swf /media/flash/games/lucky_luke/sound.swf [L]
+
+RewriteRule ^luna_park.swf /media/flash/games/luna_park/game.swf [L]
+RewriteRule ^LunaPark_Sound.swf /media/flash/games/luna_park/sound.swf [L]
+
+RewriteRule ^mafia_boss.swf /media/flash/games/mafia_boss/game.swf [L]
+RewriteRule ^mafia_Sound.swf /media/flash/games/mafia_boss/sound.swf [L]
+
+RewriteRule ^mont_blanc.swf /media/flash/games/mont_blanc/game.swf [L]
+RewriteRule ^mont-blanc_Sound.swf /media/flash/games/mont_blanc/sound.swf [L]
+
+RewriteRule ^navy.swf /media/flash/games/navy/game.swf [L]
+RewriteRule ^Navy_Sound.swf /media/flash/games/navy/sound.swf [L]
+
+RewriteRule ^numbers.swf /media/flash/games/numbers/game.swf [L]
+RewriteRule ^Numbers_Sound.swf /media/flash/games/numbers/sound.swf [L]
+
+RewriteRule ^small_life.swf /media/flash/games/small_life/game.swf [L]
+RewriteRule ^Small-life_Sound.swf /media/flash/games/small_life/sound.swf [L]
+
+RewriteRule ^zorro.swf /media/flash/games/zorro/game.swf [L]
+RewriteRule ^Zorro_Sound.swf /media/flash/games/zorro/sound.swf [L]
+
+RewriteRule ^devils_bikers.swf /media/flash/games/devils_bikers/game.swf [L]
+RewriteRule ^DevilsBikers_Sound.swf /media/flash/games/devils_bikers/sound.swf [L]
+
+
+#Slot 3
+RewriteRule ^candies.swf /media/flash/games/candies/game.swf [L]
+RewriteRule ^candies_sound.swf /media/flash/games/candies/sound.swf [L]
+
+RewriteRule ^corona.swf /media/flash/games/corona/game.swf [L]
+RewriteRule ^corona_sound.swf /media/flash/games/corona/sound.swf [L]
+
+RewriteRule ^grizzly.swf /media/flash/games/grizzly/game.swf [L]
+RewriteRule ^grizzly_sound.swf /media/flash/games/grizzly/sound.swf [L]
+
+RewriteRule ^liberty_bell.swf /media/flash/games/liberty_bell/game.swf [L]
+RewriteRule ^libertybell_sound.swf /media/flash/games/liberty_bell/sound.swf [L]
+
+RewriteRule ^marilyn.swf /media/flash/games/marilyn/game.swf [L]
+RewriteRule ^marilyn_sound.swf /media/flash/games/marilyn/sound.swf [L]
+
+
+#Roulette
+RewriteRule ^roulette_silver.swf /media/flash/games/roulette_silver/game.swf [L]
+RewriteRule ^RouletteSilver\-mat.php RouletteSilver_mat [L]
+
+
+#baccarat
+RewriteRule ^baccarat.swf /media/flash/games/baccarat/game.swf [L]
+RewriteRule ^controllers/games/cards/baccarat/Baccarat\-mat.php baccarat_mat [L]
+RewriteRule ^Baccarat\-mat.php baccarat_mat [L]
+
+#Card
+
+RewriteRule ^black_jack_diamond.swf /media/flash/games/black_jack_diamond/game.swf [L]
+RewriteRule ^blackjackdiamond\-mat.php black_jack_diamond_mat [L]
+
+RewriteRule ^black_jack_gold.swf /media/flash/games/black_jack_gold/game.swf [L]
+RewriteRule ^blackjackgold\-mat.php black_jack_gold_mat [L]
+
+RewriteRule ^black_jack_silver.swf /media/flash/games/black_jack_silver/game.swf [L]
+RewriteRule ^BlackJackSilver\-mat.php black_jack_silver_mat [L]
+
+RewriteRule ^caribbean_poker.swf /media/flash/games/caribbean_poker/game.swf [L]
+RewriteRule ^CaribbeanPokerGold\-mat.php caribbean_poker [L]
+
+RewriteRule ^jacks_or_better.swf /media/flash/games/jacks_or_better/game.swf [L]
+RewriteRule ^JacksOrBetter\-mat.php jacks_or_better [L]
+
+
+
+#video
+RewriteRule ^lotto_keno.swf /media/flash/games/lotto_keno/game.swf [L]
+RewriteRule ^LottoKeno\-mat.php lotto_keno [L]
+
+
+
+
+
+
+RewriteRule ^(application|modules|system) - [F,L]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+RewriteRule .* index.php/$0 [PT,L]
+
+

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {margin: 0; padding: 0;}
+body  {font: normal 12px Arial, Helvetica, sans-serif; background: url(/media/images/head-x2.png) 0 0 repeat-x #fff; color: #484f58;}
+img {border: none;}
+ul {list-style: none;}
+.clearfloat {clear: both; height: 0; font-size: 1px; line-height: 0px;}
+a {text-decoration: none; color: #225a8a;}
+a:hover {text-decoration: underline;}
+
+/*auth*/
+.auth {background: url(/media/images/login-bg.jpg) 0 0 no-repeat; width: 541px; height: 296px; position: absolute; left: 50%; top: 138px; margin: 0 0 0 -270px;}
+.auth div {padding: 80px 0 0 56px;}
+.auth div p {padding: 0 0 8px 0;}
+.f01 {margin: 8px 0 0 0; background: url(/media/images/login-input.png) 100% 0 no-repeat; width: 227px; height: 19px; padding: 2px 3px 0 3px;; border: none;}
+.auth a {border-bottom: 1px dotted #225a8a;}
+.f02 {margin-top: 18px;}
+.text {font-size: 15px; font-weight: bold; line-height: 25px; color: #225a8a; position: absolute; left: 378px; top: 188px;}
+/*auth*/
+
+.notice {}
+.up-box {position: absolute; height: 16px; display: block; background: url(../images/icon20.gif) 7px 4px no-repeat #e0f0b2; padding: 2px 12px 0 23px; font-size: 11px; color: #669900;}
+.up-box2 {position: absolute; height: 16px; display: block; background: url(../images/icon21.gif) 7px 3px no-repeat #fff0b2; padding: 2px 12px 0 23px; font-size: 11px; color: #cc9900;}
+.up-box3 {position: absolute; height: 16px; display: block; background: url(../images/icon22.gif) 7px 3px no-repeat #ffefef; padding: 2px 12px 0 23px; font-size: 11px; color: #ff6666;}

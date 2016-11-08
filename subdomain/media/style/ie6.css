@@ -1,0 +1,19 @@
+.in-bg, .in-bg2 {height: 1px;}
+.block-r {height: 201px;}
+.tabs, .tabs2 {margin-bottom: -10px;}
+
+.layer iframe {
+display:none;/*sorry for IE5*/
+display/**/:block;/*sorry for IE5*/
+position:absolute;/*must have*/
+top:0;/*must have*/
+left:0;/*must have*/
+z-index: -1;/*must have*/
+filter:mask();/*must have*/
+width: 100%;/*must have for any big value*/
+height:3000px/*must have for any big value*/;
+}
+
+.active-color {right: 91px; top: -24px}
+
+.t9 img, .t10 img { behavior: url(iepngfix.htc) }
